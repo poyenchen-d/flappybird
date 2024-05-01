@@ -1,0 +1,8 @@
+1000000更新
+REWARD 0.1
+-1
+
+Observation 1000
+
+紀錄每次reward  跟 total reward 交txt
+
